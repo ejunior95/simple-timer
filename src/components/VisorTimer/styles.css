@@ -1,0 +1,22 @@
+* {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #01770b;
+    font-size: 3rem;
+}
+
+input {
+    width: 300px;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    outline: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
